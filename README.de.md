@@ -42,7 +42,7 @@ Freistehende Glas-Silo-Türme — jede Sorte steigt in ihrem eigenen vertikalen 
 
 **Version** 0.24.4.0 · **Kategorie** Buildings · Placeables · [Mod-Seite](https://fsmodworks.com/de/mods/glass-silos-v2) · [Details](mods/glass-silos-v2.de.md)
 
-### 1Hall4All V1 + Silo — Free Pack
+### 1Hall4All V1 + Silo
 
 Zwei offene Stahlhallen mit Solardach, jede mit Glas-Silowand. Kostenlos, komplett selbst gebaut.
 
@@ -98,7 +98,7 @@ Der Schleppschaufelbagger für den Tagebau — Löffel an echten Seilen, drei Au
 
 **Kategorie** Vehicles · Mining Series · [Mod-Seite](https://fsmodworks.com/de/mods/manitowoc-4600-dragline) · [Details](mods/manitowoc-4600-dragline.de.md)
 
-### FSMW Gold Trader V2 — Roulette & GoGo Girls · Fundator Edition
+### FSMW Gold Trader V2 — Roulette & GoGo Girls
 
 Der Gold Trader mit Nachtschicht: acht Tänzerinnen aus acht Ländern, zehn Animationen, ein Steuerpanel. Im Bau.
 

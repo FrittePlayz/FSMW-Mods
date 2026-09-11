@@ -42,7 +42,7 @@ Free-standing glass silo towers — every material rises in its own vertical gla
 
 **Version** 0.24.4.0 · **Category** Buildings · Placeables · [Mod page](https://fsmodworks.com/en/mods/glass-silos-v2) · [Details](mods/glass-silos-v2.md)
 
-### 1Hall4All V1 + Silo — Free Pack
+### 1Hall4All V1 + Silo
 
 Two open steel halls with solar roof, each with a glass silo wall. Free, and built from scratch.
 
@@ -98,7 +98,7 @@ The dragline for the open pit — bucket on real ropes, three boom lengths, cran
 
 **Category** Vehicles · Mining Series · [Mod page](https://fsmodworks.com/en/mods/manitowoc-4600-dragline) · [Details](mods/manitowoc-4600-dragline.md)
 
-### FSMW Gold Trader V2 — Roulette & GoGo Girls · Fundator Edition
+### FSMW Gold Trader V2 — Roulette & GoGo Girls
 
 The Gold Trader with a night shift: eight dancers from eight countries, ten animations, one control panel. In the making.
 

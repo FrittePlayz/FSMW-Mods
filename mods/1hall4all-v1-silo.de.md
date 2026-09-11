@@ -1,4 +1,4 @@
-# 1Hall4All V1 + Silo — Free Pack
+# 1Hall4All V1 + Silo
 
 > Zwei offene Stahlhallen mit Solardach, jede mit Glas-Silowand. Kostenlos, komplett selbst gebaut.
 

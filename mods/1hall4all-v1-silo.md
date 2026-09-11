@@ -1,4 +1,4 @@
-# 1Hall4All V1 + Silo — Free Pack
+# 1Hall4All V1 + Silo
 
 > Two open steel halls with solar roof, each with a glass silo wall. Free, and built from scratch.
 

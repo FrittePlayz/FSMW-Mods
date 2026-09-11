@@ -1,4 +1,4 @@
-# FSMW Gold Trader V2 — Roulette & GoGo Girls · Fundator Edition
+# FSMW Gold Trader V2 — Roulette & GoGo Girls
 
 > Der Gold Trader mit Nachtschicht: acht Tänzerinnen aus acht Ländern, zehn Animationen, ein Steuerpanel. Im Bau.
 
