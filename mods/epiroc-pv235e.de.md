@@ -6,7 +6,7 @@
 |---|---|
 | **Kategorie** | Vehicles · Mining Series |
 | **Stand** | WIP |
-| **Mod-Seite** | https://fsmodworks.com/de/mods/epiroc-pv235e |
+| **Downloads** | https://fsmodworks.com/de/mods |
 
 ## Download
 

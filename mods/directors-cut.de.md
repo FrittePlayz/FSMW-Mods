@@ -7,7 +7,7 @@
 | **Kategorie** | Mining Series |
 | **Version** | V2 |
 | **Stand** | WIP |
-| **Mod-Seite** | https://fsmodworks.com/de/mods/directors-cut |
+| **Downloads** | https://fsmodworks.com/de/mods |
 
 ## Download
 

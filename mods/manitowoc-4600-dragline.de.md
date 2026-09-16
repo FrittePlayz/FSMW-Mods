@@ -6,7 +6,7 @@
 |---|---|
 | **Kategorie** | Vehicles · Mining Series |
 | **Stand** | BETA |
-| **Mod-Seite** | https://fsmodworks.com/de/mods/manitowoc-4600-dragline |
+| **Downloads** | https://fsmodworks.com/de/mods |
 
 ## Download
 

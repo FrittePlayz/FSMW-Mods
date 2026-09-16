@@ -6,7 +6,7 @@
 |---|---|
 | **Category** | Maps · Karten |
 | **Status** | WIP |
-| **Mod page** | https://fsmodworks.com/en/mods/f25-map-farm-paradise-and-pit |
+| **Downloads** | https://fsmodworks.com/en/mods |
 
 ## Download
 

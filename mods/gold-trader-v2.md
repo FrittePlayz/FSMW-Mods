@@ -6,7 +6,7 @@
 |---|---|
 | **Category** | Buildings · Placeables |
 | **Status** | WIP |
-| **Mod page** | https://fsmodworks.com/en/mods/gold-trader-v2 |
+| **Downloads** | https://fsmodworks.com/en/mods |
 
 ## Download
 

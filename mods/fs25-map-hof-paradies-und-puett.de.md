@@ -6,7 +6,7 @@
 |---|---|
 | **Kategorie** | Maps · Karten |
 | **Stand** | WIP |
-| **Mod-Seite** | https://fsmodworks.com/de/mods/fs25-map-hof-paradies-und-puett |
+| **Downloads** | https://fsmodworks.com/de/mods |
 
 ## Download
 

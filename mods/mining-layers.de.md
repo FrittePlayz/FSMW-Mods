@@ -7,7 +7,7 @@
 | **Kategorie** | Mining Series |
 | **Version** | 1.7.2.0 |
 | **Stand** | FINAL |
-| **Mod-Seite** | https://fsmodworks.com/de/mods/mining-layers |
+| **Downloads** | https://fsmodworks.com/de/mods/mining-layers |
 
 ## Download
 
